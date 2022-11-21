@@ -1,0 +1,17 @@
+Methods - Assignment 3
+Implement a class Calculator with the instance variable and method mentioned below. 
+
+
+
+Method Description
+
+sumOfDigits()
+
+Calculate and return the sum of the digits of the num member variable
+
+Test the functionalities using the provided Tester class. 
+
+ 
+
+Sample Input and Output
+
